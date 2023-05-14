@@ -91,21 +91,65 @@ This mesh pots worked well, in the sense that they kept the shape, but soil erod
 
 They really worked like a charm: soil did not erode, there was full on oxygenation, not water perch, the sedling could be exely removed by simply unlooing the net, they were re-usable forever, very cheap to transports and we even found a Chinesse manufacturer to make then at $30 cents per unit. It looked like we have our winner. But not quite. The problem that they need for a try... and the problem we have we our current tray is that it was too bulky which the thier fabriation and cost of shipping expesive.
 
+<br>
+At this stage, the tray was fullfiling a few requiremments: 1) keeping seedlings spaced, 2) keeping the shape of the net rolls, and 3) facilitating transportation of the seedlings. In reality of all this fucntions only fucntion 2 required a tall tray. So we figure out a way to move that fucntion to the pot, and make a smaller tray. Introducing our Mora's Pot:
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=DJo0_VQMFqk">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/RedPot.png" alt="MorasPot video">
-</a>
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_7373.jpg" width=60% >
 </p>
+
+As shown above it is a plastic sheet, that can be rolled and locked in place. Not to say that it was the first design that occured to us. In fact, we try many:
 
 <p align="center">
 <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_6615.JPG" width=60% >
 </p>
 
-Once the design was tested in the lab, we searched numerous mnusfacturers, of which those located in China provided the best deals. The mold cost $200, and each sheet at 0.5 mm cost $0.30 cents. The price per sheet can be cost by more than half with thinner materials, which have not been tested.
+Here is the assembling it:
+<p align="center">
+<a href="https://www.youtube.com/watch?v=OlrrgiSE9eE">
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/RedPot.png" alt="MorasPot video">
+</a>
+    
+<a href="https://www.youtube.com/watch?v=DJo0_VQMFqk">
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/RedPot.png" alt="MorasPot video">
+</a>
+
+</p>
+
+
+Here is the filling it:
+<p align="center">
+<a href="https://www.youtube.com/watch?v=cA_SxC1v3jo">
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/RedPot.png" alt="MorasPot video">
+</a>
+</p>
+
+
+Already filled:
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=XrbJDda0Z1w">
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/RedPot.png" alt="MorasPot video">
+</a>
+</p>
+
+
+Alternative usage witouht the locking mechanism:
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=XrbJDda0Z1w">
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/RedPot.png" alt="MorasPot video">
+</a>
+</p>
+
+Holes on the sheet was be configurated in many form to affect oxygen exchange, irrigation, water loging, drying, etc. We recomend to use UV protection to maximie the life usage of the sheets. While we used 0.5mm thick sheets, we have noted that they can be just as good with much thineer materials, even as thin as a paper sheet, which will reduce cost for parts and shipping considerably.
+
+Once the design was tested in the lab, we searched numerous mnusfacturers, of which those located in China provided the best deals. The mold cost $200, and each sheet of 5 mm thickness cost $0.30 cents. The price per sheet can be reduced by more than half with thinner materials, which have not been tested.
 
 <p align="center">
 <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/DieCut.jpg" width=60% >
 </p>
+
+Our die cut was manufactured by JinJiang Jiaxing Group Co.,Limited (contact person Tony : sales37@jiaxing-groups.com and service18@jiaxing-groups.com). You are welome to contact them directly and ask to use our mold.
 
 Die cut manufactured by JinJiang Jiaxing Group Co.,Limited (contact person Tony : sales37@jiaxing-groups.com and service18@jiaxing-groups.com)
