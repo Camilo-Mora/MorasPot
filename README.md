@@ -96,11 +96,15 @@ It looked like we have our winner. But not quite. We needed a try. We developed 
 At this stage, the tray was fulfilling three basic functions: 1) keeping seedlings spaced, 2) keeping the shape of the net rolls, and 3) facilitating transportation of the seedlings. In reality of all these functions only function 2 required for the tray to be tall. So, we figure out a way to move that function to the pot, and make a smaller tray. Introducing our Mora's Pot:
 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_7373.JPG" width=60% >
 <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_4428.JPG" width=60% >
 </p>
 
-As shown above it is a plastic sheet, that can be rolled and locked in place. Not to say that it was the first design that occurred to us. In fact, we tried many:
+As shown below it is a plastic sheet, that can be rolled and locked in place. 
+<p align="center">
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_4428.JPG" width=60% >
+</p>
+
+Not to say that it was the first design that occurred to us. In fact, we tried many:
 
 <p align="center">
 <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_6615.JPG" width=60% >
