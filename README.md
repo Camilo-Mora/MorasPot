@@ -138,7 +138,7 @@ Alternative usage witouht the locking mechanism:
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=XrbJDda0Z1w">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/RedPot.png" alt="MorasPot video">
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/MorasPot Alternative use.png" alt="MorasPot video">
 </a>
 </p>
 
