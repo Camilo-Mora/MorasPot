@@ -3,14 +3,14 @@
 
 For extended details see publication:
 
-Mora A, Rolo A, Molina RA, Mora C (2023) The SheetPot: a new pot that overcomes several shortcomings of seedling production
+Mora A, Rollo A, Molina RA, Mora C (2023) The SheetPot: a new pot that overcomes several shortcomings of seedling production
 
 
 
 This pot system is part of the developments of the Carbon Neutraility project. A citizen-science initative, in which individuals calculate their carbon footprint, the number of trees needed to offset those emmisions and then plant the trees. We have manage to plant up to 10,000 trees in two hours by 2,000 volunteers.
 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/LargePlanting.jpg" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/LargePlanting.jpg" width=100% >
 </p>
 
 
@@ -82,13 +82,14 @@ Then, the idea occured to us of using nets as pots...the idea here is that one c
     <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/WIN_20210120_08_49_07_Pro.jpg" width=60% >
 </p>
 
-They worked well, in the sense that they kept the shape, but soil eroded as the holes were too large. SO we used mostiquito nets.
+This mesh pots worked well, in the sense that they kept the shape, but soil eroded as the holes were too large. SO we used mostiquito nets, instead.
 
 <p align="center">
 <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/微信图片_20210127131636.jpg" width=60% >
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_9296.jpg" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_9296.png" width=60% >
 </p>
 
+They really worked like a charm: soil did not erode, there was full on oxygenation, not water perch, the sedling could be exely removed by simply unlooing the net, they were re-usable forever, very cheap to transports and we even found a Chinesse manufacturer to make then at $30 cents per unit. It looked like we have our winner. But not quite. The problem that they need for a try... and the problem we have we our current tray is that it was too bulky which the thier fabriation and cost of shipping expesive.
 
 
 <p align="center">
