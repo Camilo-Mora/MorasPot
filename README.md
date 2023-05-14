@@ -25,27 +25,27 @@ However, due to the lack of maintenance after plantining, we relay in the use us
 Our first version of the pot sytem was made out of paper, and the internet is full of DYI examples.
 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/Plant in cereal box.JPG" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/Plant in cereal box.jpg" width=60% >
 </p>
 
 The idea here is that seedlings can be grown in a paper pot, and put directly in the ground avoiding problems of planting shock when removing the seedling from the pots. We contacted numerous suppliers in the USA and China, and used numerous materials and types of coatings. 
 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_7505.JPG" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_7505.jpg" width=60% >
 </p>
 
 
 However, problems apepared rapidaly. Firts, paper decomposed fast, and; second, pots stock to each other when on contact at the nursery
 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/Problem with carton box pots2.JPG" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/Problem with carton box pots2.jpg" width=60% >
 </p>
 
 
 We developed a tray with the expectation that keeping the pots separate could elongate the duration of the paper pot, while avoiding contacts that casued them to stick with each other.
 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/Wiliwili on carton box.JPG" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/Wiliwili on carton box.jpg" width=60% >
 </p>
 
 This idea, was a nightmate. The paper suffered from decomposition, and while some papers lasted longer, they rarely exceed two months. The paper decomposing fast caused the soil to erode,  exposing the root sytems and causing a major stress to the seedling evidenced by the fact that they rarely grew.
@@ -56,37 +56,37 @@ We then move to non-wovem bags, and we found a Chinesse manufrcature that made t
 
 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/Breathing bag.JPG" width=60% >
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_7522.JPG" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/Breathing bag.jpg" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_7522.jpg" width=60% >
 </p>
 
 
 There were however, two major problems. Firt, the bags were difficult to fill and the roots crossed from bag to bag when in contact. For the second problem, we created a tray, and it worked pretty good.
 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/TrayWithPlants2.JPG" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/TrayWithPlants2.jpg" width=60% >
 </p>
 
 However, overcoming problem two was more difficult. We try numerous filling mechanisms, but they were still hard to implement. Filling this bags was very labor intensive and slow.
 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/thumbnail_IMG_7164.JPG" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/thumbnail_IMG_7164.jpg" width=60% >
 </p>
 
 
 Then, the idea occured to us of using nets as pots...the idea here is that one can create a roll with the net, creating a cylinder that can be used as pot. We used the tray developed above. At first we used ckiked plastic fencing
 
 <p align="center">
-    <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/WIN_20210120_08_50_11_Pro.JPG" width=60% >
-    <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/WIN_20210120_08_49_38_Pro.JPG" width=60% >
-    <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/WIN_20210120_08_49_07_Pro.JPG" width=60% >
+    <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/WIN_20210120_08_50_11_Pro.jpg" width=60% >
+    <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/WIN_20210120_08_49_38_Pro.jpg" width=60% >
+    <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/WIN_20210120_08_49_07_Pro.jpg" width=60% >
 </p>
 
 They worked well, in the sense that they kept the shape, but soil eroded as the holes were too large. SO we used mostiquito nets.
 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/微信图片_20210127131636.JPG" width=60% >
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_9296.heif" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/微信图片_20210127131636.jpg" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_9296.jpg" width=60% >
 </p>
 
 
@@ -98,7 +98,7 @@ They worked well, in the sense that they kept the shape, but soil eroded as the 
 </p>
 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_6615.JPG" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_6615.jpg" width=60% >
 </p>
 
 Once the design was tested in the lab, we searched numerous mnusfacturers, of which those located in China provided the best deals. The mold cost $200, and each sheet at 0.5 mm cost $0.30 cents. The price per sheet can be cost by more than half with thinner materials, which have not been tested.
