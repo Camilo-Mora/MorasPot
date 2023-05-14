@@ -128,12 +128,12 @@ Here is the filling it:
 Already filled:
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=XrbJDda0Z1w">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/RedPot.png" alt="MorasPot video">
+<a href="https://www.youtube.com/watch?v=n9vrKwX5xGk">
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/MorasPot filled.png" alt="MorasPot video">
 </a>
 </p>
 
-
+ 
 Alternative usage witouht the locking mechanism:
 
 <p align="center">
