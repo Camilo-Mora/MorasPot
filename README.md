@@ -10,7 +10,7 @@ Mora A, Rolo A, Molina RA, Mora C (2023) The SheetPot: a new pot that overcomes 
 This pot system is part of the developments of the Carbon Neutraility project. A citizen-science initative, in which individuals calculate their carbon footprint, the number of trees needed to offset those emmisions and then plant the trees. We have manage to plant up to 10,000 trees in two hours by 2,000 volunteers.
 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/LargePlanting.JPG" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/LargePlanting.jpg" width=60% >
 </p>
 
 
