@@ -101,7 +101,7 @@ At this stage, the tray was fulfilling three basic functions: 1) keeping seedlin
 
 As shown below it is a plastic sheet, that can be rolled and locked in place. 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_4428.JPG" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_4428.jpg" width=60% >
 </p>
 
 Not to say that it was the first design that occurred to us. In fact, we tried many:
