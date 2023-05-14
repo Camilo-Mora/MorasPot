@@ -56,7 +56,7 @@ We then move to non-wovem bags, and we found a Chinesse manufrcature that made t
 
 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/Breathing bag.jpg" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/Breathing bag.JPG" width=60% >
 <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_7522.jpg" width=60% >
 </p>
 
@@ -98,7 +98,7 @@ They worked well, in the sense that they kept the shape, but soil eroded as the 
 </p>
 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_6615.jpg" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_6615.JPG" width=60% >
 </p>
 
 Once the design was tested in the lab, we searched numerous mnusfacturers, of which those located in China provided the best deals. The mold cost $200, and each sheet at 0.5 mm cost $0.30 cents. The price per sheet can be cost by more than half with thinner materials, which have not been tested.
