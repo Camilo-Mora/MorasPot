@@ -15,7 +15,7 @@ Healthy seedlings are key to the success of large-scale restoration. "Healthy" c
 </a>
 
 
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/DieCut.png" width=60% align="center">
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/DieCut.jpg" width=60% align="center">
 
 
 Die cut manufactured by JinJiang Jiaxing Group Co.,Limited (contact person Tony : sales37@jiaxing-groups.com and service18@jiaxing-groups.com)
