@@ -16,3 +16,8 @@ Healthy seedlings are key to the success of large-scale restoration. "Healthy" c
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=DJo0_VQMFqk)
 
 <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_3425.JPG" width=60% >)(http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+
+<a href="https://www.youtube.com/watch?v=DJo0_VQMFqk">
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_3425.JPG" alt="MorasPot video">
+</a>
