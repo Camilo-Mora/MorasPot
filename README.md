@@ -79,7 +79,7 @@ Then, the idea occured to us of using nets as pots...the idea here is that one c
 <p align="center">
     <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/WIN_20210120_08_50_11_Pro.jpg" width=60% >
     <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/WIN_20210120_08_49_38_Pro.jpg" width=60% >
-    <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/WIN_20210120_08_49_07_Pro.jpg" width=60% >
+    <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/WIN_20210120_08_50_53_Pro.jpg" width=60% >
 </p>
 
 This mesh pots worked well, in the sense that they kept the shape, but soil eroded as the holes were too large. SO we used mostiquito nets, instead.
