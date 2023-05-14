@@ -152,4 +152,5 @@ Once the design was tested in the lab, we searched numerous mnusfacturers, of wh
 
 Our die cut was manufactured by JinJiang Jiaxing Group Co.,Limited (contact person Tony : sales37@jiaxing-groups.com and service18@jiaxing-groups.com). You are welome to contact them directly and ask to use our mold.
 
-Die cut manufactured by JinJiang Jiaxing Group Co.,Limited (contact person Tony : sales37@jiaxing-groups.com and service18@jiaxing-groups.com)
+
+The file needed by the manufacturer is called: MorasPot in this repository. We provided it in different file formats, but the PDF will satisfy in most cases.
