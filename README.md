@@ -86,9 +86,8 @@ They worked well, in the sense that they kept the shape, but soil eroded as the 
 
 <p align="center">
 <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/微信图片_20210127131636.JPG" width=60% >
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_9296.JPG" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_9296.heif" width=60% >
 </p>
-
 
 
 
