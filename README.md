@@ -109,10 +109,6 @@ Here is the assembling it:
 <a href="https://www.youtube.com/watch?v=OlrrgiSE9eE">
 <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/PotAssembling.png" alt="MorasPot video">
 </a>
-    
-<a href="https://www.youtube.com/watch?v=DJo0_VQMFqk">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/RedPot.png" alt="MorasPot video">
-</a>
 
 </p>
 
@@ -133,7 +129,13 @@ Already filled:
 </a>
 </p>
 
- 
+A full version:
+<p align="center">
+<a href="https://www.youtube.com/watch?v=DJo0_VQMFqk">
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/RedPot.png" alt="MorasPot video">
+</a>
+</p>
+
 Alternative usage witouht the locking mechanism:
 
 <p align="center">
