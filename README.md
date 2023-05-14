@@ -95,7 +95,7 @@ They really worked like a charm: soil did not erode, there was full on oxygenati
 At this stage, the tray was fullfiling a few requiremments: 1) keeping seedlings spaced, 2) keeping the shape of the net rolls, and 3) facilitating transportation of the seedlings. In reality of all this fucntions only fucntion 2 required a tall tray. So we figure out a way to move that fucntion to the pot, and make a smaller tray. Introducing our Mora's Pot:
 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_7373.jpg" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_7373.JPG" width=60% >
 </p>
 
 As shown above it is a plastic sheet, that can be rolled and locked in place. Not to say that it was the first design that occured to us. In fact, we try many:
@@ -107,7 +107,7 @@ As shown above it is a plastic sheet, that can be rolled and locked in place. No
 Here is the assembling it:
 <p align="center">
 <a href="https://www.youtube.com/watch?v=OlrrgiSE9eE">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/RedPot.png" alt="MorasPot video">
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/PotAssembling.png" alt="MorasPot video">
 </a>
     
 <a href="https://www.youtube.com/watch?v=DJo0_VQMFqk">
