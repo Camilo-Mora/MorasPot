@@ -36,7 +36,7 @@ The idea here is that seedlings can be grown in a paper pot, and put directly in
 <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_7505.jpg" width=60% >
 </p>
 
-This pot system was a nightmare. The paper suffered from decomposition, and while some papers lasted longer, they rarely exceed two months. The paper decomposing fast caused the soil to erode exposing the root system and causing a major stress to the seedling evidenced by the fact that they rarely grew; also, the pots stock to each other when on contact at the nursery
+This pot system was a nightmare. The paper suffered from decomposition, and while some papers lasted longer, they rarely exceed two months. The paper decomposing fast caused the soil to erode exposing the root system and causing a major stress to the seedling evidenced by the fact that they rarely grew; also, the pots stuck to each other when on contact at the nursery
 
 <p align="center">
 <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/Problem with carton box pots2.jpg" width=60% >
@@ -99,7 +99,7 @@ At this stage, the tray was fulfilling three basic functions: 1) keeping seedlin
 <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_4428.jpg" width=60% >
 </p>
 
-As shown below it is a plastic sheet, that can be rolled and locked in place. 
+As shown below, Mora's Pot is a plastic sheet, that can be rolled and locked in place. 
 <p align="center">
 <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_7373.JPG" width=60% >
 </p>
