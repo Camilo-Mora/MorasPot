@@ -120,7 +120,7 @@ Here is the assembling it:
 Here is the filling it:
 <p align="center">
 <a href="https://www.youtube.com/watch?v=cA_SxC1v3jo">
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/RedPot.png" alt="MorasPot video">
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/MorasPot filling.png" alt="MorasPot video">
 </a>
 </p>
 
