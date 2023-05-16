@@ -96,7 +96,7 @@ This mesh pots worked well, in the sense that they kept the shape, but soil erod
 <p align="center">
 <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/微信图片_20210127131636.jpg" width=60% >
 <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_9296.png" width=60% >
-<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_7450.png" width=60% >
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/IMG_7450.jpg" width=60% >
 </p>
 
 They really worked like a charm: soil did not erode, there was full on oxygenation, not water perch, the seedling could be easily removed by simply unrolling the net, they were re-usable forever, very cheap to transports and we even found a Chinese manufacturer to make them; price $30 cents per unit. 
