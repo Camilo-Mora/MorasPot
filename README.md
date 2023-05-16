@@ -91,6 +91,17 @@ This mesh pots worked well, in the sense that they kept the shape, but soil erod
 
 They really worked like a charm: soil did not erode, there was full on oxygenation, not water perch, the seedling could be easily removed by simply unrolling the net, they were re-usable forever, very cheap to transports and we even found a Chinese manufacturer to make them; price $30 cents per unit. 
 
+
+
+Here is the assembling of it:
+<p align="center">
+<a href="https://www.youtube.com/watch?v=BywBNLIbZTE">
+<img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/Net Pot.png" alt="MorasPot video">
+</a>
+
+</p>
+
+
 It looked like we have our winner. But not quite. We needed a try. We developed a try that was affordable in price per unit ($3 dollars) holding 9 seedlings and with UV protection, we expected it to last several years. The problem we had with our tray was that it was too bulky which made the cost of shipping very expensive. Unfortunately, we realized this problem only when planning mass production.
 
 At this stage, the tray was fulfilling three basic functions: 1) keeping seedlings spaced, 2) keeping the shape of the net rolls, and 3) facilitating transportation of the seedlings. In reality of all these functions only function 2 required for the tray to be tall. So, we figure out a way to move that function to the pot, and make a smaller tray. Introducing our Mora's Pot:
