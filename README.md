@@ -38,7 +38,7 @@ The idea here is that seedlings can be grown in a paper pot, and put directly in
 
 Here is the assembling of it:
 <p align="center">
-<a href="https://www.youtube.com/watch?v=WVhJGA6VLOU">
+<a href="https://www.youtube.com/watch?v=EVBTIBqYHz8">
 <img src="https://github.com/Camilo-Mora/MorasPot/blob/main/Images/Paper Pot.png" alt="MorasPot video">
 </a>
 
